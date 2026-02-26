@@ -1,0 +1,10 @@
+.venv
+/venv
+__pycache__
+.vscode
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.DS_Store

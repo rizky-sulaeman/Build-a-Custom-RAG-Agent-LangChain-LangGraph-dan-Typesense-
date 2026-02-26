@@ -1,0 +1,3028 @@
+{
+  "status": "OK",
+  "message": "Success",
+  "data": [
+    {
+      "doctor_id": "5eae0017-40dd-4961-869f-79d9e45d87f2",
+      "name": "Adventia Emilia Krysna Sipi Seda, M.M., M.Psi., Psikolog",
+      "doctor_hope_id": 1000001971,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17210933028054001.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": 100000,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "adventia-emilia-krysna-sipi-seda-m-m-m-psi-psikolog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": true,
+          "hospital_id": "8c09908a-2eb3-4e5e-a7d3-ab2400df0b82",
+          "hospital_name": "Siloam Hospitals Yogyakarta",
+          "alias": "SHYG",
+          "days": "1, 2, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "390e838a-1607-46b5-a811-1083f7c42c6c",
+      "name": "Agnes Dewanti Purnomowardani, Psi, Msi",
+      "doctor_hope_id": 11000000121,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_07_27_16235816589138384641658913838464.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": 100000,
+      "teleconsult_price": 350000,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "agnes-dewanti-purnomowardani-psi-msi",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": true,
+          "hospital_id": "8c09908a-2eb3-4e5e-a7d3-ab2400df0b82",
+          "hospital_name": "Siloam Hospitals Yogyakarta",
+          "alias": "SHYG",
+          "days": "4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "49d31a8d-bce4-4600-921e-8cf516819482",
+      "name": "Anasthasya Fielia Litelnoni, M.PSi., Psikolog",
+      "doctor_hope_id": 1000001538,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "anasthasya-fielia-litelnoni-m-psi-psikolog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "63c6af56-bb9a-4962-a698-454d3345630d",
+          "hospital_name": "Siloam Hospitals Manado",
+          "alias": "SHMN",
+          "days": "1, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "f38fac7f-c50c-49de-adb5-ea70b5f9896f",
+      "name": "Annisa Mega Radyani,S.Psi.,M.Psi.",
+      "doctor_hope_id": 1000000952,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/doctor_governance_photo-17011581998908783.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 12",
+      "doctor_seo_key": "annisa-mega-radyani-s-psi-m-psi-",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "f3360448-d4f9-4e8c-80a8-136f46eb994f",
+          "hospital_name": "Siloam Hospitals Agora Cempaka Putih",
+          "alias": "SHAG",
+          "days": "3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "5183f288-8417-48cd-ac7e-dc0c5a7df265",
+      "name": "Catharina Nidyaputri, M. Psi, Psikolog",
+      "doctor_hope_id": 1000001768,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17546254331138352.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "catharina-nidyaputri-m-psi-psikolog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "80d359a6-57e2-47f6-bcad-36806931c925",
+          "hospital_name": "Siloam Hospitals Bogor",
+          "alias": "SHBG",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "d738df6f-c358-4314-a06a-aa883c167816",
+      "name": "Chiang, Yulius Darmawan, S.Psi., M.Psi., Psi",
+      "doctor_hope_id": 1000003042,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17669708904174243.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3",
+      "doctor_seo_key": "chiang-yulius-darmawan-psi",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "104188b7-476f-49e8-a100-cb4479a2e284",
+          "hospital_name": "Siloam Hospitals Putera Bahagia",
+          "alias": "SHCB",
+          "days": "3, 4, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "2dcdfb32-4c6c-4613-b658-7392eec5b293",
+      "name": "Christina Tedja, S.Psi, M.Psi, Psikolog",
+      "doctor_hope_id": 1000001136,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_05_10_12332316836968035191683696803519.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": 250000,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "christina-tedja-s-psi-m-psi-psikolog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": true,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "1, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "f71d2e1d-ab3e-41f6-9a3d-382dccc622c7",
+      "name": "Citra Hati Leometa, M.Psi, Psi",
+      "doctor_hope_id": 1000001917,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17409935345221591.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 6",
+      "doctor_seo_key": "citra-hati-leometa-psi",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "1, 4, 5, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "39fed600-a09e-4e1e-8c21-4fbf029c7206",
+      "name": "Devi Delia, M.Psi, Psikolog",
+      "doctor_hope_id": 1000002459,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "27727de9-0fa2-4b93-bd4d-5c0bd6030c0c",
+      "speciality_id": "51637b01-fa8c-4f5c-868f-38b484570431",
+      "sub_specialization_name": "Psikolog",
+      "sub_specialization_name_en": "Psychologist",
+      "specialization_name": "Psikologi - Psikolog",
+      "specialization_name_en": "Psychology - Psychologist",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "devi-delia-m-psi-psikolog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7b16ee07-7f87-4b78-b019-c0415454a5db",
+          "hospital_name": "Siloam Sriwijaya Palembang",
+          "alias": "SHPL",
+          "days": "1, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "88309856-ff32-4ff8-a3ba-f84946cada46",
+      "name": "Diabetic Educator",
+      "doctor_hope_id": 1000000286,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "2e837c86-96f1-4217-b7d2-4a1e62122220",
+      "speciality_id": "00000000-0000-0000-0000-000000000000",
+      "sub_specialization_name": "Other Specialties",
+      "sub_specialization_name_en": "Others",
+      "specialization_name": "Lainnya - Other Specialties",
+      "specialization_name_en": "OTHERS - Others",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "diabetic-educator",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "39764039-37b9-4176-a025-ef7b2e124ba4",
+          "hospital_name": "Siloam Hospitals Lippo Village",
+          "alias": "SHLV",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0f4f06a1-161c-4815-b692-18d4f064dbdb",
+      "name": "Dokter Umum Siloam Yogyakarta",
+      "doctor_hope_id": 1000001123,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 80000,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dokter-umum-siloam-yogyakarta",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "8c09908a-2eb3-4e5e-a7d3-ab2400df0b82",
+          "hospital_name": "Siloam Hospitals Yogyakarta",
+          "alias": "SHYG",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "aef8e7e4-5567-488c-bbef-3018e9d3e999",
+      "name": "dr. A. A. Ayu Nancy Karang, SpTHT-KL",
+      "doctor_hope_id": 14000000292,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_04_18_09374416817854646501681785464650.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "3",
+      "doctor_seo_key": "dr-a-a-ayu-nancy-karang-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "49a1ef75-2bdb-4586-b287-557929a7d873",
+          "hospital_name": "Siloam Hospitals Denpasar",
+          "alias": "SHDP",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "9857f8b7-ef9a-4ccd-831a-91538cfb0aa6",
+      "name": "dr. A.A Bagus Indra Permadi, SpOG",
+      "doctor_hope_id": 14000000005901,
+      "gender_id": "832cbc12-0469-488f-9850-e810faf8e464",
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_05_09_10574716836046673561683604667356.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-aa-bagus-indra-permadi-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "49a1ef75-2bdb-4586-b287-557929a7d873",
+          "hospital_name": "Siloam Hospitals Denpasar",
+          "alias": "SHDP",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "003e1acf-d796-4fe7-9ce8-50ab2eded6f0",
+      "name": "dr. Abdul Halim Raynaldo, SpJP (K)",
+      "doctor_hope_id": 34000000288,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "b23fc1ed-1863-45f8-b241-b7129b3c0d9d",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Subspesialis Prevensi dan Rehabilitasi Kardiovaskular",
+      "sub_specialization_name_en": "Preventive Cardiology and Cardiac Rehabilitation Subspecialist",
+      "specialization_name": "Kardiologi (Jantung) - Subspesialis Prevensi dan Rehabilitasi Kardiovaskular",
+      "specialization_name_en": "Cardiology (Heart) - Preventive Cardiology and Cardiac Rehabilitation Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_03_12_20553916786293390641678629339064.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 11",
+      "doctor_seo_key": "dr-abdul-halim-raynaldo-spjpk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bf8f504-dd72-4248-ac00-5dcb2f261c50",
+          "hospital_name": "Siloam Hospitals Medan",
+          "alias": "SHMD",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "60929f4f-0e85-4337-af6e-67c4510978b6",
+      "name": "dr. Abdul Rahman, M.Kes, SpTHT",
+      "doctor_hope_id": 36000000151,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_10_31_10431016671877902221667187790222.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 154500,
+      "is_have_schedule": true,
+      "consultation_type": "2, 6",
+      "doctor_seo_key": "dr-abdul-rahman-mkes-sptht",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "2f7446d2-91b3-4e78-bcce-6a749813a842",
+          "hospital_name": "Siloam Hospitals Bekasi Sepanjang Jaya",
+          "alias": "SHBS",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "5caa72dd-e6b0-4dfd-a341-80fb8a2b54fa",
+      "name": "dr. Achmad Fikry, SpPD, K-GH",
+      "doctor_hope_id": 1000000415,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0781dc4e-40e3-4c4b-b658-de240ebbe440",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Subspesialis Ginjal Hipertensi",
+      "sub_specialization_name_en": "Hypertension and Nephrology Subspecialist",
+      "specialization_name": "Penyakit Dalam - Subspesialis Ginjal Hipertensi",
+      "specialization_name_en": "Internal Medicine - Hypertension and Nephrology Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_06_13_08003916550820394521655082039452.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-achmad-fikry-sppd",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "253c529a-d4aa-477d-81f9-27fee6b04d5c",
+          "hospital_name": "Siloam Hospitals Makassar",
+          "alias": "SHMK",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "87740a8b-d731-4174-bc8a-19f748c714c0",
+      "name": "dr. Achmad Fuad Bakry, SpPD, KGEH, FINASIM",
+      "doctor_hope_id": 1000001624,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "9364eebb-eab9-4e78-ad04-b57167dc80e2",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Subspesialis Gastroenterohepatologi",
+      "sub_specialization_name_en": "Gastroenterology and Hepatology Subspecialist",
+      "specialization_name": "Penyakit Dalam - Subspesialis Gastroenterohepatologi",
+      "specialization_name_en": "Internal Medicine - Gastroenterology and Hepatology Subspecialist",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-achmad-fuad-bakry-sppd-kgeh-finasim",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7b16ee07-7f87-4b78-b019-c0415454a5db",
+          "hospital_name": "Siloam Sriwijaya Palembang",
+          "alias": "SHPL",
+          "days": "2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "fef36684-1df3-4c3e-91d4-09779d4a47ec",
+      "name": "dr. Achmad Taufan, SpOG",
+      "doctor_hope_id": 1000002380,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17437375862221868.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-achmad-taufan-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "0344e546-ffbd-41e7-ab59-bdf8de74bc89",
+          "hospital_name": "Siloam Hospitals Lubuk Linggau",
+          "alias": "SHLL",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "332db7f9-f433-4a2e-970c-3eaba96dbfb0",
+      "name": "dr. Achmad Triadi Setiawan, SpJP",
+      "doctor_hope_id": 1000001141,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "bf6acc43-f99d-48be-b339-dfeac7b646ee",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Spesialis Jantung dan Pembuluh Darah",
+      "sub_specialization_name_en": "Cardiology and Vascular Medicine",
+      "specialization_name": "Kardiologi (Jantung) - Spesialis Jantung dan Pembuluh Darah",
+      "specialization_name_en": "Cardiology (Heart) - Cardiology and Vascular Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17362396199498286.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-achmad-triadi-setiawan-spjp",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4a58cc8e-9b63-44b5-80e7-2cdd7d10d53a",
+          "hospital_name": "Siloam Hospitals Purwakarta",
+          "alias": "SHPW",
+          "days": "1, 2, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "eafd3b96-b97c-4780-b373-9b9bcf56c13e",
+      "name": "dr. Achmad Yusuf, SpDVE",
+      "doctor_hope_id": 5000000513,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "266f7854-4f5e-462e-8267-2ada967ecf51",
+      "speciality_id": "44d54965-b740-451c-9fec-a21b6e7544bf",
+      "sub_specialization_name": "Spesialis Dermatologi Venereologi Estetika",
+      "sub_specialization_name_en": "Dermatologist Venereologist Aesthetician",
+      "specialization_name": "Dermatologi (Kulit) - Spesialis Dermatologi Venereologi Estetika",
+      "specialization_name_en": "Dermatology (Skin) - Dermatologist Venereologist Aesthetician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_06_21_13192516557923655471655792365547.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-achmad-yusuf-spkk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "8c205b85-2f5d-4878-84ab-0b0f33519d5d",
+      "name": "dr. Achnes Pangaribuan, M.Biomed, SpPD",
+      "doctor_hope_id": 1000001630,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "329de195-1ab6-4a43-b1e2-acfde447fec3",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Spesialis Penyakit Dalam",
+      "sub_specialization_name_en": "Internal Medicine",
+      "specialization_name": "Penyakit Dalam - Spesialis Penyakit Dalam",
+      "specialization_name_en": "Internal Medicine - Internal Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17189591469321937.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 11, 2, 5",
+      "doctor_seo_key": "dr-achnes-pangaribuan-m-biomed-sppd",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "e07a3118-a98b-433f-98fb-eb2fcdb1b514",
+          "hospital_name": "Siloam Hospitals Bekasi Timur",
+          "alias": "SHBT",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "417e2d0a-af8b-4eb2-9644-57143a1dcdc6",
+      "name": "dr. Ade Chandra, SpB",
+      "doctor_hope_id": 14000000328,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_04_20_12473516819696551271681969655127.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 3, 5",
+      "doctor_seo_key": "dr-ade-chandra-spb",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "49a1ef75-2bdb-4586-b287-557929a7d873",
+          "hospital_name": "Siloam Hospitals Denpasar",
+          "alias": "SHDP",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "e5a64fcc-0bd6-42cf-95d8-061c57784809",
+      "name": "dr. Adela Stephani Sampouw",
+      "doctor_hope_id": 1000001018,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "7",
+      "doctor_seo_key": "dr-adela-stephani-sampouw",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "b633f896-b643-480d-a2d9-916ab7dde4af",
+      "name": "dr. Adelgrit Trisia, M.Imun.,Sp.A",
+      "doctor_hope_id": 1000001122,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "11c0a60e-b2d8-4be8-802b-663dbe281dac",
+      "speciality_id": "9a5e44fc-49c2-421d-b004-b982938ca870",
+      "sub_specialization_name": "Spesialis Ilmu Kesehatan Anak",
+      "sub_specialization_name_en": "Pediatrician",
+      "specialization_name": "Pediatrik (Anak) - Spesialis Ilmu Kesehatan Anak",
+      "specialization_name_en": "Pediatrics - Pediatrician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17694023049135795.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-adelgrit-trisia-spa",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "c60ae294-df89-47f8-9f44-a8748c55c09f",
+          "hospital_name": "Siloam Hospitals Palangkaraya",
+          "alias": "SHPR",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "faf8d251-671c-463b-8f82-588d60d26a51",
+      "name": "dr. Ade Rahmatdianto",
+      "doctor_hope_id": 5000000681,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/old-profile/bhrylkgkqvuy7edus2l4.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-ade-rahmatdianto",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "f3f709e1-d04c-49f9-82d4-8a7eb0065247",
+      "name": "dr. Adhen Bella Andriani",
+      "doctor_hope_id": 1000002885,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adhen-bella-andriani",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "dcf63376-ed54-4b73-ba93-e84f3f215d4b",
+          "hospital_name": "Siloam Hospitals Sentosa",
+          "alias": "SHST",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "ba9effa9-efc0-4fd2-b7e8-b6f35bba7215",
+      "name": "dr. Adhitya Indrapraja, SpOG, M.Kes",
+      "doctor_hope_id": 4000000160,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_02_10152016461909204601646190920460.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 3, 5, 6",
+      "doctor_seo_key": "dr-adhitya-indrapraja-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "377669e0-808b-4d30-81da-fa9a0afc50d0",
+      "name": "dr. Adianto Dwi Prasetio Z, SpP",
+      "doctor_hope_id": 1000001808,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "00b2c942-2e4d-497d-9a04-1b59483ebd64",
+      "speciality_id": "eb1a6af5-bb95-4bdb-bedb-3a32922f6a6e",
+      "sub_specialization_name": "Spesialis Pulmonologi dan Kedokteran Respirasi",
+      "sub_specialization_name_en": "Pulmonologist and Respiratory Medicine",
+      "specialization_name": "Pulmonologi (Paru) - Spesialis Pulmonologi dan Kedokteran Respirasi",
+      "specialization_name_en": "Pulmonology (Lung) - Pulmonologist and Respiratory Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17327803995572604.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2, 6",
+      "doctor_seo_key": "dr-adianto-dwi-prasetio-z-spp",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "81d7771f-f4ca-49ff-92cf-dd6c4ce7aa12",
+          "hospital_name": "Siloam Heart Hospital",
+          "alias": "SHCN",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "02be947f-ad88-4b18-9f51-7d7db1676876",
+      "name": "dr. Adianto Jaya Nagara Iskandar Winata Tjea, SpDVE",
+      "doctor_hope_id": 1000002081,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "266f7854-4f5e-462e-8267-2ada967ecf51",
+      "speciality_id": "44d54965-b740-451c-9fec-a21b6e7544bf",
+      "sub_specialization_name": "Spesialis Dermatologi Venereologi Estetika",
+      "sub_specialization_name_en": "Dermatologist Venereologist Aesthetician",
+      "specialization_name": "Dermatologi (Kulit) - Spesialis Dermatologi Venereologi Estetika",
+      "specialization_name_en": "Dermatology (Skin) - Dermatologist Venereologist Aesthetician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17271595925749339.png",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-adianto-jaya-nagara-iskandar-winata-tjea-spdve",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "c279e92e-57c3-47ad-8ce5-397b4fe8b6f7",
+          "hospital_name": "Siloam Hospitals Balikpapan",
+          "alias": "SHBP",
+          "days": "1, 2, 4, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "d2b56f52-711a-4f29-861a-f81b55b6a687",
+      "name": "dr. Adi Aryanto, SpOT (K)",
+      "doctor_hope_id": 10000000048,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "6f409436-64bb-49a9-ada7-4bc5c6733d09",
+      "speciality_id": "67d08367-643b-4741-b1f7-23f77575ebcb",
+      "sub_specialization_name": "Subspesialis Tulang Belakang",
+      "sub_specialization_name_en": "Orthopaedic Spine Subspecialist",
+      "specialization_name": "Ortopedi (Tulang) - Subspesialis Tulang Belakang",
+      "specialization_name_en": "Orthopaedics (Bone) - Orthopaedic Spine Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_07_27_15471516589116353381658911635338.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2, 5",
+      "doctor_seo_key": "dr-adi-aryanto-spot",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "c279e92e-57c3-47ad-8ce5-397b4fe8b6f7",
+          "hospital_name": "Siloam Hospitals Balikpapan",
+          "alias": "SHBP",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "3dec5d35-df8a-426c-b29c-18c5eca5f450",
+      "name": "dr. Adi Basuki, SpBP-RE",
+      "doctor_hope_id": 1000002437,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17581875742186045.png",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3",
+      "doctor_seo_key": "dr-adi-basuki-spbp-re",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "2, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "74e0707c-3678-4fd7-89f0-062aeeadb7d8",
+      "name": "dr. Adinata Zein",
+      "doctor_hope_id": 34000000377,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/old-profile/hhcfrnzkkfgii80ya8wd.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 120000,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dr-adinata-zein",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bf8f504-dd72-4248-ac00-5dcb2f261c50",
+          "hospital_name": "Siloam Hospitals Medan",
+          "alias": "SHMD",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "1b5e3f22-2ffa-499d-b73c-13387b446e15",
+      "name": "dr. Adinda Sandya Poernomo",
+      "doctor_hope_id": 1000001586,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adinda-sandya-poernomo",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "5d1a1a13-f5e3-47cc-bc92-7264f42978db",
+      "name": "dr. Adi Santoso, SpB, SpU, Subsp Ped. (K)",
+      "doctor_hope_id": 5000000514,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "313941f8-c1af-4054-a2ed-37768f4a77ce",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Subspesialis Pediatrik",
+      "sub_specialization_name_en": "Pediatrics Subspecialist",
+      "specialization_name": "Urologi - Subspesialis Pediatrik",
+      "specialization_name_en": "Urology - Pediatrics Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_06_21_12135316557884335571655788433557.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adi-santoso-spb-spu-k",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "4, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0eb6fa3f-507c-4ee0-98ce-21cea78ba761",
+      "name": "dr. Adisti Mega Rinindra, SpTHT-KL",
+      "doctor_hope_id": 27000000032,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_05_12_09414216838593029491683859302949.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adisti-mega-rinindra-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "598f5450-7e37-460e-aa08-3e354371770c",
+          "hospital_name": "Siloam Hospitals ASRI",
+          "alias": "SH ASRI",
+          "days": "1, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "b43ac3f5-319a-42b1-ba76-476a283ef73a",
+      "name": "dr. Adisti Prafica P, SpN",
+      "doctor_hope_id": 1000000038,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "97ce4804-6508-4d65-bb5a-70a3d14604ae",
+      "speciality_id": "3416fac3-82f0-467d-9665-5ff9f65cbad9",
+      "sub_specialization_name": "Spesialis Neurologi",
+      "sub_specialization_name_en": "Neurologist",
+      "specialization_name": "Neurologi (Otak dan Sistem Saraf) - Spesialis Neurologi",
+      "specialization_name_en": "Neurology (Brain and Nervous System) - Neurologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_10_25_14033316982174134671698217413467.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dr-adisti-prafica-putri-spn",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "365e1f45-2d61-45bd-82fe-662e9474c60f",
+          "hospital_name": "Siloam Hospitals Mataram",
+          "alias": "SHMT",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "81b826e7-3eb6-40e8-8908-ead69745adc5",
+      "name": "dr. Adisty Ranny",
+      "doctor_hope_id": 2000000748,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_10_15372216469014422251646901442225.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 95000,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dr-adisty-ranny",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "39764039-37b9-4176-a025-ef7b2e124ba4",
+          "hospital_name": "Siloam Hospitals Lippo Village",
+          "alias": "SHLV",
+          "days": "1, 2, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "38602dab-deb5-4dde-81a5-28c90f6959d8",
+      "name": "dr. Adi Suryanto Budhipramono, SpA",
+      "doctor_hope_id": 2000000820,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "11c0a60e-b2d8-4be8-802b-663dbe281dac",
+      "speciality_id": "9a5e44fc-49c2-421d-b004-b982938ca870",
+      "sub_specialization_name": "Spesialis Ilmu Kesehatan Anak",
+      "sub_specialization_name_en": "Pediatrician",
+      "specialization_name": "Pediatrik (Anak) - Spesialis Ilmu Kesehatan Anak",
+      "specialization_name_en": "Pediatrics - Pediatrician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17230090113761923.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "5, 6",
+      "doctor_seo_key": "dr-adi-suryanto-spa",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "39764039-37b9-4176-a025-ef7b2e124ba4",
+          "hospital_name": "Siloam Hospitals Lippo Village",
+          "alias": "SHLV",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "29e6c4d0-eecc-40fb-bb17-5794e3e1a9c7",
+      "name": "dr. Adithya Febrian, SpB",
+      "doctor_hope_id": 1000002360,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17442737005433395.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-adithya-febrian-spb",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4cf6c0fd-6a7f-4ce8-aac9-a5686eac8ad6",
+          "hospital_name": "Siloam Hospitals Bangka Belitung",
+          "alias": "SHBB",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "37fb6ad5-c727-4c18-9665-5251375491c1",
+      "name": "dr. Adrian Masno Sp.JP(K). FIHA. FAsCC. FAPSC. FAPSIC",
+      "doctor_hope_id": 17000000014,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "fef20f76-544c-4dfd-b246-076008396c90",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Subspesialis Kardiologi Intervensi",
+      "sub_specialization_name_en": "Interventional Cardiology Subspecialist",
+      "specialization_name": "Kardiologi (Jantung) - Subspesialis Kardiologi Intervensi",
+      "specialization_name_en": "Cardiology (Heart) - Interventional Cardiology Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17308619760169693.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 11, 5, 6",
+      "doctor_seo_key": "dr-adrian-masno-spjpkfiha",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7b16ee07-7f87-4b78-b019-c0415454a5db",
+          "hospital_name": "Siloam Sriwijaya Palembang",
+          "alias": "SHPL",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "b4e81798-9290-46f5-a83c-8de657b07709",
+      "name": "dr. Adrianne Marisa Tauran, SpP",
+      "doctor_hope_id": 9000000005601,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "00b2c942-2e4d-497d-9a04-1b59483ebd64",
+      "speciality_id": "eb1a6af5-bb95-4bdb-bedb-3a32922f6a6e",
+      "sub_specialization_name": "Spesialis Pulmonologi dan Kedokteran Respirasi",
+      "sub_specialization_name_en": "Pulmonologist and Respiratory Medicine",
+      "specialization_name": "Pulmonologi (Paru) - Spesialis Pulmonologi dan Kedokteran Respirasi",
+      "specialization_name_en": "Pulmonology (Lung) - Pulmonologist and Respiratory Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_08_09_11270016600192208221660019220822.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-adrianne-marisa-tauran-spp",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "253c529a-d4aa-477d-81f9-27fee6b04d5c",
+          "hospital_name": "Siloam Hospitals Makassar",
+          "alias": "SHMK",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "ecb1cc33-c89d-462f-989b-3b901044f83c",
+      "name": "dr. Adrian Salim, SpB",
+      "doctor_hope_id": 3000000034601,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_17_10355116450689512811645068951281.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-adrian-salim-spb",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "beba4c15-72d4-473a-bb9e-6dc26c0c9052",
+          "hospital_name": "MRCCC Siloam Hospitals Semanggi",
+          "alias": "MRCCC",
+          "days": "1, 2, 3, 4, 6"
+        },
+        {
+          "is_secured_booking": false,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "5, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "06127132-b75e-4830-9c16-be11c975aca8",
+      "name": "dr. Adrian Setiaji, Sp.KFR, AIFO-K",
+      "doctor_hope_id": 2000000019901,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "e59510fe-8819-43b3-8a9f-d11feefc357c",
+      "speciality_id": "7d9ee11b-2483-46b2-b319-a1922eaa4cbe",
+      "sub_specialization_name": "Spesialis Kedokteran Fisik dan Rehabilitasi",
+      "sub_specialization_name_en": "Physical Medicine and Rehabilitation",
+      "specialization_name": "Rehabilitasi Medik - Spesialis Kedokteran Fisik dan Rehabilitasi",
+      "specialization_name_en": "Medical Rehabilitation - Physical Medicine and Rehabilitation",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17387294032912850.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adrian-setiaji",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "beba4c15-72d4-473a-bb9e-6dc26c0c9052",
+          "hospital_name": "MRCCC Siloam Hospitals Semanggi",
+          "alias": "MRCCC",
+          "days": "1, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "855eb457-b283-49a5-8659-8a1a9d3a4b85",
+      "name": "dr. Adrian Setiawan, SpOG",
+      "doctor_hope_id": 1076,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_17_10382116450691012401645069101240.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-adrian-setiawan-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "e96d96ca-9089-4762-9159-48243793a99b",
+      "name": "dr. Adrian Suhendra, SpPK (K), MKes",
+      "doctor_hope_id": 29000000275,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "004ad694-0942-49a9-bf78-bc9b27c17ec6",
+      "speciality_id": "09cb5094-d3de-4d8e-b792-59a9410595cd",
+      "sub_specialization_name": "Spesialis Patologi Klinik Subspesialis Penyakit Infeksi",
+      "sub_specialization_name_en": "Clinical Pathologist - Infectious Disease Subspecialist",
+      "specialization_name": "Laboratorium Medis - Spesialis Patologi Klinik Subspesialis Penyakit Infeksi",
+      "specialization_name_en": "Medical Laboratory - Clinical Pathologist - Infectious Disease Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_15_09470316473124235161647312423516.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 154500,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adrian-suhendra-sppk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4a58cc8e-9b63-44b5-80e7-2cdd7d10d53a",
+          "hospital_name": "Siloam Hospitals Purwakarta",
+          "alias": "SHPW",
+          "days": "1, 2, 3, 4, 5"
+        },
+        {
+          "is_secured_booking": false,
+          "hospital_id": "2f7446d2-91b3-4e78-bcce-6a749813a842",
+          "hospital_name": "Siloam Hospitals Bekasi Sepanjang Jaya",
+          "alias": "SHBS",
+          "days": null
+        }
+      ]
+    },
+    {
+      "doctor_id": "16005925-43c5-437c-9395-169e6b4d9b29",
+      "name": "dr. Adrian Susilo",
+      "doctor_hope_id": 34000000011401,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_06_22_10145916874036997511687403699751.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-adrian-susilo",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bf8f504-dd72-4248-ac00-5dcb2f261c50",
+          "hospital_name": "Siloam Hospitals Medan",
+          "alias": "SHMD",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "e9af9c9e-6b7e-4229-ab28-46f572aa26f5",
+      "name": "dr. Adrianus Tyasmono Adiprasetyo, SpPD",
+      "doctor_hope_id": 1000002286,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "329de195-1ab6-4a43-b1e2-acfde447fec3",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Spesialis Penyakit Dalam",
+      "sub_specialization_name_en": "Internal Medicine",
+      "specialization_name": "Penyakit Dalam - Spesialis Penyakit Dalam",
+      "specialization_name_en": "Internal Medicine - Internal Medicine",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-andrianus-tyasmono-adiprasetyo-sppd",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d2f3bddc-62a2-45af-977f-77a1e15e62d9",
+          "hospital_name": "RSU Syubbanul Wathon",
+          "alias": "RSUSW",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "6b70d128-353b-48de-a657-648b1255aad9",
+      "name": "dr.adv.Ineke Winda Ferianasari, SH,MH.Kes,Sp.DVE,FINSDV, FAADV",
+      "doctor_hope_id": 4000000191,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "266f7854-4f5e-462e-8267-2ada967ecf51",
+      "speciality_id": "44d54965-b740-451c-9fec-a21b6e7544bf",
+      "sub_specialization_name": "Spesialis Dermatologi Venereologi Estetika",
+      "sub_specialization_name_en": "Dermatologist Venereologist Aesthetician",
+      "specialization_name": "Dermatologi (Kulit) - Spesialis Dermatologi Venereologi Estetika",
+      "specialization_name_en": "Dermatology (Skin) - Dermatologist Venereologist Aesthetician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17447867861069842.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 3, 5, 6",
+      "doctor_seo_key": "dr-ineke-winda-ferianasari-spkk-mhkes",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "1, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "e83fa9cb-858b-40a8-b31b-25390af3a0eb",
+      "name": "dr. Afriyanto Ridhwan, SpTHT-KL",
+      "doctor_hope_id": 17000000000402,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17308620952971476.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-afriyanto-ridhwan-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7b16ee07-7f87-4b78-b019-c0415454a5db",
+          "hospital_name": "Siloam Sriwijaya Palembang",
+          "alias": "SHPL",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0573395c-e324-471a-b306-70bdd1b7c949",
+      "name": "dr. Aga Destraga Aristyaputra, SpA",
+      "doctor_hope_id": 1000002253,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "11c0a60e-b2d8-4be8-802b-663dbe281dac",
+      "speciality_id": "9a5e44fc-49c2-421d-b004-b982938ca870",
+      "sub_specialization_name": "Spesialis Ilmu Kesehatan Anak",
+      "sub_specialization_name_en": "Pediatrician",
+      "specialization_name": "Pediatrik (Anak) - Spesialis Ilmu Kesehatan Anak",
+      "specialization_name_en": "Pediatrics - Pediatrician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17466783098768773.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-aga-destraga-aristyaputra-spa",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "59e881e5-ceb5-448e-98a0-73d9f2cbf155",
+      "name": "dr. Aga Parardya, SpU (K)",
+      "doctor_hope_id": 1000001581,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "2ce3b1eb-0e94-465b-8fa5-a8929ad2f21c",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Subspesialis Rekonstruksi",
+      "sub_specialization_name_en": "Reconstruction Subspecialist",
+      "specialization_name": "Urologi - Subspesialis Rekonstruksi",
+      "specialization_name_en": "Urology - Reconstruction Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17395046067847411.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-aga-parardya-spu-",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "561686b8-383e-45d9-97e6-b97e3d5ef492",
+          "hospital_name": "Siloam Hospitals TB Simatupang",
+          "alias": "SHTB",
+          "days": "4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "8557fa7f-2a37-40cb-a442-a6e85ce28be8",
+      "name": "dr. Agebrina Satolom, SpOG",
+      "doctor_hope_id": 4000000162,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_02_10172316461910439851646191043985.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 3, 5, 6",
+      "doctor_seo_key": "dr-agebrina-satolom-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "153b75ee-dc07-4290-ad55-d4d28457780f",
+          "hospital_name": "Siloam Hospitals Lippo Cikarang",
+          "alias": "SHLC",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0f333881-bc20-4159-b454-7247b13a6bca",
+      "name": "dr. Agieta Zulkifli, SpTHT-KL",
+      "doctor_hope_id": 19000000347,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_24_10000916456716099871645671609987.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agieta-zulkifli-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "beba4c15-72d4-473a-bb9e-6dc26c0c9052",
+          "hospital_name": "MRCCC Siloam Hospitals Semanggi",
+          "alias": "MRCCC",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "592a99dc-a773-4e59-b86b-072ed9dc5708",
+      "name": "dr. Agill Agassi Tsalitsa, SpJP",
+      "doctor_hope_id": 1000001569,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "bf6acc43-f99d-48be-b339-dfeac7b646ee",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Spesialis Jantung dan Pembuluh Darah",
+      "sub_specialization_name_en": "Cardiology and Vascular Medicine",
+      "specialization_name": "Kardiologi (Jantung) - Spesialis Jantung dan Pembuluh Darah",
+      "specialization_name_en": "Cardiology (Heart) - Cardiology and Vascular Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17254212760484005.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agill-agassi-tsalitsa-spjp",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "561686b8-383e-45d9-97e6-b97e3d5ef492",
+          "hospital_name": "Siloam Hospitals TB Simatupang",
+          "alias": "SHTB",
+          "days": "2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "a58c1a61-f5d7-4ede-b490-12d68cf1fbb1",
+      "name": "dr. Agnes Indri Ratnasari",
+      "doctor_hope_id": 1000001825,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agnes-indri-ratnasari",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "561686b8-383e-45d9-97e6-b97e3d5ef492",
+          "hospital_name": "Siloam Hospitals TB Simatupang",
+          "alias": "SHTB",
+          "days": "1, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "fd654617-023c-4070-9e72-a5a141d9de10",
+      "name": "dr. Agnes Lucia Panda, SpPD, SpJP (K)",
+      "doctor_hope_id": 28000000233,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "7f1f2e80-9fa6-4e88-b4a3-dbeb602074c3",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Subspesialis Ekokardiografi",
+      "sub_specialization_name_en": "Echocardiography Subspecialist",
+      "specialization_name": "Kardiologi (Jantung) - Subspesialis Ekokardiografi",
+      "specialization_name_en": "Cardiology (Heart) - Echocardiography Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_07_29_12110516590714653761659071465376.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-agnes-lucia-panda-sppd-spjpk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "63c6af56-bb9a-4962-a698-454d3345630d",
+          "hospital_name": "Siloam Hospitals Manado",
+          "alias": "SHMN",
+          "days": "2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "4b203a34-b4b1-4dde-920b-cd1f5b6ab948",
+      "name": "dr. Agung Priyanto Setyo",
+      "doctor_hope_id": 5000000691,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/old-profile/fankaeftcjvm8gvk84he.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agung-priyanto-setyo",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "8bfa0cfe-32db-4ca8-875e-62ee841ce109",
+      "name": "dr. Agung Purnomo, SpAn",
+      "doctor_hope_id": 10000000050,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "961099b8-ea98-49d9-bce1-f52658a3f632",
+      "speciality_id": "55d93a52-7ffb-4cc3-b287-18ff593faf84",
+      "sub_specialization_name": "Spesialis Anestesiologi dan Terapi Intensif",
+      "sub_specialization_name_en": "Anesthesiology and Intensivist",
+      "specialization_name": "Anestesiologi - Spesialis Anestesiologi dan Terapi Intensif",
+      "specialization_name_en": "Anesthesiology - Anesthesiology and Intensivist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_11_02_16050116989159016241698915901624.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agung-purnomo-span",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "c279e92e-57c3-47ad-8ce5-397b4fe8b6f7",
+          "hospital_name": "Siloam Hospitals Balikpapan",
+          "alias": "SHBP",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "671a3ce0-6b91-421e-9483-41a08f502be2",
+      "name": "dr. Agung Witjaksono, SpOG",
+      "doctor_hope_id": 27000000064,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17528312568129781.png",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agung-witjaksono-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "598f5450-7e37-460e-aa08-3e354371770c",
+          "hospital_name": "Siloam Hospitals ASRI",
+          "alias": "SH ASRI",
+          "days": "1, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "d8089c9e-eabb-42ed-8b4b-7d0b9eef9b1a",
+      "name": "dr. Agus Eko Susilo, SpAn",
+      "doctor_hope_id": 41000000002601,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "961099b8-ea98-49d9-bce1-f52658a3f632",
+      "speciality_id": "55d93a52-7ffb-4cc3-b287-18ff593faf84",
+      "sub_specialization_name": "Spesialis Anestesiologi dan Terapi Intensif",
+      "sub_specialization_name_en": "Anesthesiology and Intensivist",
+      "specialization_name": "Anestesiologi - Spesialis Anestesiologi dan Terapi Intensif",
+      "specialization_name_en": "Anesthesiology - Anesthesiology and Intensivist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_11_18_11420516687465252521668746525252.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-agus-eko-susilo-span",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d27bc94c-ba25-49e1-ac41-beb3996bbc61",
+          "hospital_name": "Siloam Hospitals Ambon",
+          "alias": "SHAB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "6ad4e615-702b-4948-b352-0b1e3b0fbfb1",
+      "name": "dr. Agus Endrawanto, SpB, M.Kes",
+      "doctor_hope_id": 43000000008,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_05_31_08483516854977150831685497715083.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 120000,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-agus-endrawanto-spb-mkes",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "1a013f71-2ff0-4acc-82b2-20f8c37a2aea",
+          "hospital_name": "Siloam Hospitals Buton",
+          "alias": "SHBN",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "bc2a35b2-c596-4347-acff-3de0a04d096d",
+      "name": "dr. Agus Heriyanto, SpOG",
+      "doctor_hope_id": 1000001723,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2024_03_18_12251417107395142301710739514230.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-agus-heriyanto-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "39764039-37b9-4176-a025-ef7b2e124ba4",
+          "hospital_name": "Siloam Hospitals Lippo Village",
+          "alias": "SHLV",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "82647137-c279-4490-82c0-4b5be5aca54b",
+      "name": "dr. Agus Multazar, M.Ked ( ORL-HNS ), SpTHT-KL",
+      "doctor_hope_id": 6000000331,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_09_06_14570216624510224791662451022479.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 150000,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agus-multazar-mked--orl-hns--sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "f0a2533f-a05a-44ba-b8c5-bafef105fed8",
+          "hospital_name": "Siloam Hospitals Jambi",
+          "alias": "SHJB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "09f98bce-fc32-4bd4-80bc-7285f5987b74",
+      "name": "dr. Agus Rusdhy Hariawan Hamid, SpOG. SubsKFm., MARS",
+      "doctor_hope_id": 1000001004,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "9fd8bfff-89a1-46b6-a992-a460b132211d",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Subspesialis Kedokteran Fetomaternal",
+      "sub_specialization_name_en": "Maternal-Fetal Medicine Subspecialist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Subspesialis Kedokteran Fetomaternal",
+      "specialization_name_en": "Obstetrics and Gynecology - Maternal-Fetal Medicine Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_06_14_14332116867280017951686728001795.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dr-agus-rusdhy-hariawan-hamid-spog-subskfm-mars",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "365e1f45-2d61-45bd-82fe-662e9474c60f",
+          "hospital_name": "Siloam Hospitals Mataram",
+          "alias": "SHMT",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "5747ba16-a4b4-4fc3-9ba6-5900dee6ca2f",
+      "name": "dr. Agus Sutarman, SpB (K) Onk",
+      "doctor_hope_id": 1108,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "2edb292d-ce56-4ad5-85d2-0a4de98c232a",
+      "speciality_id": "39ff8dbc-0aa1-4643-9108-e8a523138b48",
+      "sub_specialization_name": "Spesialis Bedah Subspesialis Bedah Onkologi",
+      "sub_specialization_name_en": "Surgeon - Surgical Oncology Subspecialist",
+      "specialization_name": "Bedah Onkologi (Kanker) - Spesialis Bedah Subspesialis Bedah Onkologi",
+      "specialization_name_en": "Oncology Surgery (Cancer) - Surgeon - Surgical Oncology Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_06_03_10553616542285360161654228536016.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agus-sutarman-spb-k-onk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "2, 4, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "d048683b-60a9-457b-940a-70e22c3bc5a5",
+      "name": "dr. Agustian Sofian, SpBTKV",
+      "doctor_hope_id": 27000000095,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "d811a17e-fa2b-486a-8978-5b5b7a46ec11",
+      "speciality_id": "493068b9-e822-426c-a95b-757b7fba6af4",
+      "sub_specialization_name": "Spesialis Bedah Toraks, Kardiak dan Vaskular",
+      "sub_specialization_name_en": "Thoracic, Cardiac, and Vascular Surgeon",
+      "specialization_name": "Bedah Toraks Kardiovaskular - Spesialis Bedah Toraks, Kardiak dan Vaskular",
+      "specialization_name_en": "Cardiothoracic & Vascular Surgery - Thoracic, Cardiac, and Vascular Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17207768116524282.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-agustian-sofian-spbt-kv",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "598f5450-7e37-460e-aa08-3e354371770c",
+          "hospital_name": "Siloam Hospitals ASRI",
+          "alias": "SH ASRI",
+          "days": "1, 2, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "671c5d80-8f5b-4c8c-b004-cbb888feeb45",
+      "name": "dr. Agustina, DPPS, SpA, CIMI",
+      "doctor_hope_id": 33000000000702,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "11c0a60e-b2d8-4be8-802b-663dbe281dac",
+      "speciality_id": "9a5e44fc-49c2-421d-b004-b982938ca870",
+      "sub_specialization_name": "Spesialis Ilmu Kesehatan Anak",
+      "sub_specialization_name_en": "Pediatrician",
+      "specialization_name": "Pediatrik (Anak) - Spesialis Ilmu Kesehatan Anak",
+      "specialization_name_en": "Pediatrics - Pediatrician",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_12_12_15391916708343590941670834359094.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2",
+      "doctor_seo_key": "dr-agustina-spa",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "65a60870-beab-4925-94ad-4a5246e26d6a",
+          "hospital_name": "Siloam Hospitals Kelapa Dua",
+          "alias": "SHKD",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "82488352-e5aa-4f8e-9f19-c90dfa518cd1",
+      "name": "dr. Agustina Irawati Sanjaya",
+      "doctor_hope_id": 1001,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17286370276779774.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-agustina-irawati-sanjaya",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0d6cccc7-b15f-4e17-acce-0eb67a2e82f1",
+      "name": "dr. Agustinus Gusti, Sp.OG",
+      "doctor_hope_id": 39000000019,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_12_28_16173216722190524581672219052458.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2",
+      "doctor_seo_key": "dr-agustinus-gusti-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4c54e7ba-a8d3-4c24-a8a1-526b1a275855",
+          "hospital_name": "Siloam Hospitals Labuan Bajo",
+          "alias": "SHLB",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "105c92aa-de3a-4ea9-b1e3-adc560795a3c",
+      "name": "dr. Agustinus Hamonangan Winston Purba, SpTHT-KL",
+      "doctor_hope_id": 34000000007502,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_06_25_17470116876900214331687690021433.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-agustinus-hamonangan-wiston-purba-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bf8f504-dd72-4248-ac00-5dcb2f261c50",
+          "hospital_name": "Siloam Hospitals Medan",
+          "alias": "SHMD",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "0d2e6cea-6003-4a14-82c8-1290b9cb4148",
+      "name": "dr. Agustinus Iskandar, SpN",
+      "doctor_hope_id": 5000000518,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "97ce4804-6508-4d65-bb5a-70a3d14604ae",
+      "speciality_id": "3416fac3-82f0-467d-9665-5ff9f65cbad9",
+      "sub_specialization_name": "Spesialis Neurologi",
+      "sub_specialization_name_en": "Neurologist",
+      "specialization_name": "Neurologi (Otak dan Sistem Saraf) - Spesialis Neurologi",
+      "specialization_name_en": "Neurology (Brain and Nervous System) - Neurologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17654288946584208.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2",
+      "doctor_seo_key": "dr-agustinus-iskandar-sps",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "de01ea2d-9aed-4978-9416-67aca6e553e3",
+      "name": "dr. Agustinus I Wayan Harimawan, SpGK (K)",
+      "doctor_hope_id": 14000000275,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "80ba7846-7d5a-414d-b04c-e31e5cc98c7d",
+      "speciality_id": "85af0200-d3e5-49c6-9906-4100643ee113",
+      "sub_specialization_name": "Subspesialis Nutrisi pada Penyakit Kritis",
+      "sub_specialization_name_en": "Critical Illness Subspecialist",
+      "specialization_name": "Gizi Klinik - Subspesialis Nutrisi pada Penyakit Kritis",
+      "specialization_name_en": "Clinical Nutrition - Critical Illness Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_04_20_14162416819749847611681974984761.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 250000,
+      "is_have_schedule": true,
+      "consultation_type": "3, 6",
+      "doctor_seo_key": "dr-agustinus-i-wayan-harimawan-spgk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "49a1ef75-2bdb-4586-b287-557929a7d873",
+          "hospital_name": "Siloam Hospitals Denpasar",
+          "alias": "SHDP",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "090727fb-43c2-4656-b4d8-e8166d7f0b4b",
+      "name": "dr. Agustinus Sony Yudianto, SpTHT-KL",
+      "doctor_hope_id": 10000000051,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "94a78993-8d9f-4c29-a39a-cedbe2e8573d",
+      "speciality_id": "c1f95028-8e0d-4b5b-9026-6e26f355ae0c",
+      "sub_specialization_name": "Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "sub_specialization_name_en": "Otorhinolaryngologist",
+      "specialization_name": "Otorinolaringologi (THTBKL) - Spesialis Telinga-Hidung-Tenggorok-Kepala-Leher",
+      "specialization_name_en": "Otorhinolaryngology (ENT) - Otorhinolaryngologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_07_27_14595116589087914831658908791483.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 180000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-agustinus-sony-yudianto-sptht-kl",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "c279e92e-57c3-47ad-8ce5-397b4fe8b6f7",
+          "hospital_name": "Siloam Hospitals Balikpapan",
+          "alias": "SHBP",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "51b0cc8e-5f54-4be8-8f1d-555ba01a085a",
+      "name": "dr. Agus Yudho Santosa, SpPD, FINASIM",
+      "doctor_hope_id": 21000000000703,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "329de195-1ab6-4a43-b1e2-acfde447fec3",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Spesialis Penyakit Dalam",
+      "sub_specialization_name_en": "Internal Medicine",
+      "specialization_name": "Penyakit Dalam - Spesialis Penyakit Dalam",
+      "specialization_name_en": "Internal Medicine - Internal Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_02_27_08094016774601806191677460180619.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 120000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-agus-yudho-santosa-sppd-finasim-",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "ae89651b-d83a-44eb-90b6-1bfbe2c859c6",
+          "hospital_name": "Siloam Hospitals Jember",
+          "alias": "SHJR",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "345314fd-1c65-48dc-881e-d09158b7ccfc",
+      "name": "dr. Ahmad Data Dariansyah, SpBS",
+      "doctor_hope_id": 1000002263,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "88e459c1-ff0d-494b-9caa-6bc5e39c4490",
+      "speciality_id": "2c3ba315-555e-4fca-b4fe-ae9ec50bf7cf",
+      "sub_specialization_name": "Spesialis Bedah Saraf",
+      "sub_specialization_name_en": "Neurosurgeon",
+      "specialization_name": "Bedah Saraf - Spesialis Bedah Saraf",
+      "specialization_name_en": "Neurosurgery - Neurosurgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17401222746852321.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-ahmad-data-dariansyah-spbs",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "9f818c25-81ca-40a8-8ed5-e8027b774986",
+      "name": "dr. Ahmad Fauzan",
+      "doctor_hope_id": 1000002966,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-ahmad-fauzan",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "dcf63376-ed54-4b73-ba93-e84f3f215d4b",
+          "hospital_name": "Siloam Hospitals Sentosa",
+          "alias": "SHST",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "71c59117-8323-4579-a7de-7a3dc1579411",
+      "name": "dr. Ahmad Kusumaputra, SpU, M. Ked. Klin",
+      "doctor_hope_id": 1000003129,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "df9840b2-1146-4f9f-8083-8154c610fccd",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Spesialis Urologi",
+      "sub_specialization_name_en": "Urologist",
+      "specialization_name": "Urologi - Spesialis Urologi",
+      "specialization_name_en": "Urology - Urologist",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-ahmad-kusumaputra-spu-m-ked-klin",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d2f3bddc-62a2-45af-977f-77a1e15e62d9",
+          "hospital_name": "RSU Syubbanul Wathon",
+          "alias": "RSUSW",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "a1abefde-085c-49d9-ab15-e50d33dc3439",
+      "name": "dr. Ahmad Nurfakhri Syarief, SpU",
+      "doctor_hope_id": 1000002013,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "df9840b2-1146-4f9f-8083-8154c610fccd",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Spesialis Urologi",
+      "sub_specialization_name_en": "Urologist",
+      "specialization_name": "Urologi - Spesialis Urologi",
+      "specialization_name_en": "Urology - Urologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17385528589495823.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-ahmad-nurfakhri-syarief-spu",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "253c529a-d4aa-477d-81f9-27fee6b04d5c",
+          "hospital_name": "Siloam Hospitals Makassar",
+          "alias": "SHMK",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "6915de24-f0a0-4c4c-a4c5-792f6d7ecbdc",
+      "name": "dr. Ahmad Ramadhanu, SpOG",
+      "doctor_hope_id": 1000003128,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17703686295153305.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-ahmad-ramadhanu-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4cf6c0fd-6a7f-4ce8-aac9-a5686eac8ad6",
+          "hospital_name": "Siloam Hospitals Bangka Belitung",
+          "alias": "SHBB",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "24202b44-881b-4980-b272-c7447dd560c0",
+      "name": "dr. Ahmad Syaiful, SpKJ",
+      "doctor_hope_id": 15000000011801,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5408a479-93a4-4133-a3d9-2420b1e12a5c",
+      "speciality_id": "41cd5e99-7ea8-405d-a255-8166b07a690b",
+      "sub_specialization_name": "Spesialis Psikiatri",
+      "sub_specialization_name_en": "Psychiatrist",
+      "specialization_name": "Psikiatri - Spesialis Psikiatri",
+      "specialization_name_en": "Psychiatry - Psychiatrist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_02_22_15111116455174716821645517471682.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 4, 6",
+      "doctor_seo_key": "dr-ahmad-syaiful-spkj",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "561686b8-383e-45d9-97e6-b97e3d5ef492",
+          "hospital_name": "Siloam Hospitals TB Simatupang",
+          "alias": "SHTB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "b4d5c1ca-0496-4bdc-9dab-6d1aa017af16",
+      "name": "dr. Aida Riyanti, SpOG-KFER",
+      "doctor_hope_id": 15000000292,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "d2aa28d5-7948-4e9b-b45c-344832aa305a",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Subspesialis Fertilitas Endokrinologi Reproduksi",
+      "sub_specialization_name_en": "Reproductive Endocrinology and Fertility Subspecialist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Subspesialis Fertilitas Endokrinologi Reproduksi",
+      "specialization_name_en": "Obstetrics and Gynecology - Reproductive Endocrinology and Fertility Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_03_08_15151416467273144751646727314475.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-aida-riyanti-spog-k-fer",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "561686b8-383e-45d9-97e6-b97e3d5ef492",
+          "hospital_name": "Siloam Hospitals TB Simatupang",
+          "alias": "SHTB",
+          "days": "2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "5b193531-8484-4fe5-9721-893b1fa81082",
+      "name": "dr. Ainil Masthura, SpAK",
+      "doctor_hope_id": 1000001322,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "b5b31bfd-66f5-43c7-9829-0f4cfe499a74",
+      "speciality_id": "24bf6171-0aef-4579-864b-51bfa3328290",
+      "sub_specialization_name": "Spesialis Akupunktur Medik",
+      "sub_specialization_name_en": "Medical Acupuncture",
+      "specialization_name": "Akupunktur - Spesialis Akupunktur Medik",
+      "specialization_name_en": "Acupuncture - Medical Acupuncture",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_12_16_15005417027136549561702713654956.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-ainil-masthura-spak",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "80d359a6-57e2-47f6-bcad-36806931c925",
+          "hospital_name": "Siloam Hospitals Bogor",
+          "alias": "SHBG",
+          "days": "1, 2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "996c2e72-cfb7-475e-85b7-c569c7ca0860",
+      "name": "dr. Airin Kristiani, SpAk",
+      "doctor_hope_id": 2000000018501,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "b5b31bfd-66f5-43c7-9829-0f4cfe499a74",
+      "speciality_id": "24bf6171-0aef-4579-864b-51bfa3328290",
+      "sub_specialization_name": "Spesialis Akupunktur Medik",
+      "sub_specialization_name_en": "Medical Acupuncture",
+      "specialization_name": "Akupunktur - Spesialis Akupunktur Medik",
+      "specialization_name_en": "Acupuncture - Medical Acupuncture",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_02_27_09471716774660371441677466037144.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-airin-kristiani-spak",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "39764039-37b9-4176-a025-ef7b2e124ba4",
+          "hospital_name": "Siloam Hospitals Lippo Village",
+          "alias": "SHLV",
+          "days": "2, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "6d1e0a04-b00e-48d2-920c-03893b7ae673",
+      "name": "dr. Airin R. N. Mappewali, Sp.DVE, Subsp. OBK ",
+      "doctor_hope_id": 9000000073,
+      "gender_id": "99703553-4e62-4f9e-9f6f-99fdcad1bc63",
+      "gender_name": null,
+      "specialization_id": "870f0f9a-361f-48eb-89fe-2f31f47e49f6",
+      "speciality_id": "44d54965-b740-451c-9fec-a21b6e7544bf",
+      "sub_specialization_name": "Subspesialis Onkologi dan Bedah Kulit",
+      "sub_specialization_name_en": "Oncology and Skin Surgery Subspecialist",
+      "specialization_name": "Dermatologi (Kulit) - Subspesialis Onkologi dan Bedah Kulit",
+      "specialization_name_en": "Dermatology (Skin) - Oncology and Skin Surgery Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_08_09_16070716600360271211660036027121.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "3, 5",
+      "doctor_seo_key": "dr-airin-rn-mappewali-spkk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "253c529a-d4aa-477d-81f9-27fee6b04d5c",
+          "hospital_name": "Siloam Hospitals Makassar",
+          "alias": "SHMK",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "985464f3-fbca-40c5-923d-eaba9dcc01ce",
+      "name": "dr. Ajeng Sari Fatimi",
+      "doctor_hope_id": 44000000005403,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17292470337923446.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-ajeng-sari-fatimi",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bfbdce7-aa14-41ea-99d4-39f760c7cda1",
+          "hospital_name": "Siloam Hospitals Mampang",
+          "alias": "SHMA",
+          "days": "1, 2, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "c2a430e9-5c67-4f90-8a15-e0e297192b86",
+      "name": "dr. Ajeng Tribawati, SpB, FINACS",
+      "doctor_hope_id": 1000000426,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17654270819873090.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2, 5",
+      "doctor_seo_key": "dr-ajeng-tribawati-spb",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "e318d038-40ae-42ab-b00c-c2fdfe089ad9",
+      "name": "dr. Aji Bagus Widyantara, SpPK",
+      "doctor_hope_id": 31000000005101,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "c5117243-0eb1-429a-b7ea-f804bfc62ae9",
+      "speciality_id": "09cb5094-d3de-4d8e-b792-59a9410595cd",
+      "sub_specialization_name": "Spesialis Patologi Klinik",
+      "sub_specialization_name_en": "Clinical Pathologist",
+      "specialization_name": "Laboratorium Medis - Spesialis Patologi Klinik",
+      "specialization_name_en": "Medical Laboratory - Clinical Pathologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_08_29_14491816932953583181693295358318.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-aji-bagus-widyantara-sppk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d2f3bddc-62a2-45af-977f-77a1e15e62d9",
+          "hospital_name": "RSU Syubbanul Wathon",
+          "alias": "RSUSW",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "cc7f3c27-b850-4100-a47c-674c811be27c",
+      "name": "dr. Akhada Maulana, Sp.U",
+      "doctor_hope_id": 1000000509,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "df9840b2-1146-4f9f-8083-8154c610fccd",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Spesialis Urologi",
+      "sub_specialization_name_en": "Urologist",
+      "specialization_name": "Urologi - Spesialis Urologi",
+      "specialization_name_en": "Urology - Urologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_06_14_14340816867280484241686728048424.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-akhada-maulana-spu",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "365e1f45-2d61-45bd-82fe-662e9474c60f",
+          "hospital_name": "Siloam Hospitals Mataram",
+          "alias": "SHMT",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "70ba92d9-640d-4a3c-bf85-bd2b559fca4d",
+      "name": "dr. Aladin Sampara Johan, SpB",
+      "doctor_hope_id": 37000000141,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "0641ecdb-5110-429e-ac0b-90427f9739cb",
+      "speciality_id": "5fd16e43-b6ff-429d-aa86-f9b089e89c71",
+      "sub_specialization_name": "Spesialis Bedah",
+      "sub_specialization_name_en": "General Surgeon",
+      "specialization_name": "Bedah Umum - Spesialis Bedah",
+      "specialization_name_en": "General Surgery - General Surgeon",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_08_29_15492116617629619991661762961999.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 170000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2",
+      "doctor_seo_key": "dr-aladin-s-johan-spb-",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "e07a3118-a98b-433f-98fb-eb2fcdb1b514",
+          "hospital_name": "Siloam Hospitals Bekasi Timur",
+          "alias": "SHBT",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "a03d8d18-8de4-4882-9f96-7008458745e0",
+      "name": "dr. Alban Dien, SpB. Subsp.Onk.(K)",
+      "doctor_hope_id": 19000000391,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "2edb292d-ce56-4ad5-85d2-0a4de98c232a",
+      "speciality_id": "39ff8dbc-0aa1-4643-9108-e8a523138b48",
+      "sub_specialization_name": "Spesialis Bedah Subspesialis Bedah Onkologi",
+      "sub_specialization_name_en": "Surgeon - Surgical Oncology Subspecialist",
+      "specialization_name": "Bedah Onkologi (Kanker) - Spesialis Bedah Subspesialis Bedah Onkologi",
+      "specialization_name_en": "Oncology Surgery (Cancer) - Surgeon - Surgical Oncology Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17660275361402431.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 400000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-alban-dien-spb-k-onk",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "beba4c15-72d4-473a-bb9e-6dc26c0c9052",
+          "hospital_name": "MRCCC Siloam Hospitals Semanggi",
+          "alias": "MRCCC",
+          "days": "2, 4, 6"
+        },
+        {
+          "is_secured_booking": false,
+          "hospital_id": "f3360448-d4f9-4e8c-80a8-136f46eb994f",
+          "hospital_name": "Siloam Hospitals Agora Cempaka Putih",
+          "alias": "SHAG",
+          "days": "1, 3, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "b9e7c68e-9788-46a7-a6c9-b7d654731b2a",
+      "name": "dr. Albertus Daniel, SpPD",
+      "doctor_hope_id": 36000000145,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "329de195-1ab6-4a43-b1e2-acfde447fec3",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Spesialis Penyakit Dalam",
+      "sub_specialization_name_en": "Internal Medicine",
+      "specialization_name": "Penyakit Dalam - Spesialis Penyakit Dalam",
+      "specialization_name_en": "Internal Medicine - Internal Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/old-profile/q8ec2tetvjvssq76bzwo.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 154500,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2, 6",
+      "doctor_seo_key": "dr-albertus-daniel-sppd",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "2f7446d2-91b3-4e78-bcce-6a749813a842",
+          "hospital_name": "Siloam Hospitals Bekasi Sepanjang Jaya",
+          "alias": "SHBS",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "aaf7312b-759d-4705-812f-d8bc44496e98",
+      "name": "dr. Albertus Marcelino, Sp.U, FICS",
+      "doctor_hope_id": 3000000012201,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "df9840b2-1146-4f9f-8083-8154c610fccd",
+      "speciality_id": "205c7231-017c-498c-baf4-6f4f859abdcc",
+      "sub_specialization_name": "Spesialis Urologi",
+      "sub_specialization_name_en": "Urologist",
+      "specialization_name": "Urologi - Spesialis Urologi",
+      "specialization_name_en": "Urology - Urologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17298205604336337.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-albertus-marcelino-spu",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "7bfbdce7-aa14-41ea-99d4-39f760c7cda1",
+          "hospital_name": "Siloam Hospitals Mampang",
+          "alias": "SHMA",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "30ed38a7-a8d2-4b81-8b82-a4a16fbc1587",
+      "name": "dr. Albin Salsabila Hasbi",
+      "doctor_hope_id": 1000001604,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 3",
+      "doctor_seo_key": "dr-albin-salsabila-hasbi",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "4a58cc8e-9b63-44b5-80e7-2cdd7d10d53a",
+          "hospital_name": "Siloam Hospitals Purwakarta",
+          "alias": "SHPW",
+          "days": "4, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "6ef6f3ed-4c7c-4bdb-9bb8-9408af5051a7",
+      "name": "dr. Aldhi Pradana Hernugrahanto, SpJP (K), FIHA",
+      "doctor_hope_id": 5000000519,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "fef20f76-544c-4dfd-b246-076008396c90",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Subspesialis Kardiologi Intervensi",
+      "sub_specialization_name_en": "Interventional Cardiology Subspecialist",
+      "specialization_name": "Kardiologi (Jantung) - Subspesialis Kardiologi Intervensi",
+      "specialization_name_en": "Cardiology (Heart) - Interventional Cardiology Subspecialist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2022_06_21_12191716557887572471655788757247.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 160000,
+      "is_have_schedule": true,
+      "consultation_type": "6",
+      "doctor_seo_key": "dr-aldhi-pradana-hernugrahanto-spjp-k-fiha",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5"
+        }
+      ]
+    },
+    {
+      "doctor_id": "fd0e0093-107f-48ef-b106-7ca7b8f7b098",
+      "name": "dr. Aldila Pradityawati, SpJP,FIHA",
+      "doctor_hope_id": 1000002673,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "bf6acc43-f99d-48be-b339-dfeac7b646ee",
+      "speciality_id": "42231f2b-d871-417b-8cad-5a10ea57167e",
+      "sub_specialization_name": "Spesialis Jantung dan Pembuluh Darah",
+      "sub_specialization_name_en": "Cardiology and Vascular Medicine",
+      "specialization_name": "Kardiologi (Jantung) - Spesialis Jantung dan Pembuluh Darah",
+      "specialization_name_en": "Cardiology (Heart) - Cardiology and Vascular Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17627396465147585.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 2, 5",
+      "doctor_seo_key": "dr-aldila-pradityawati-spjp",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "e07a3118-a98b-433f-98fb-eb2fcdb1b514",
+          "hospital_name": "Siloam Hospitals Bekasi Timur",
+          "alias": "SHBT",
+          "days": "1, 2, 3, 4"
+        }
+      ]
+    },
+    {
+      "doctor_id": "023816d8-13bf-46ed-b1cf-27dfbb716376",
+      "name": "dr. Aldy Dion Dharma",
+      "doctor_hope_id": 1000002764,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1",
+      "doctor_seo_key": "dr-aldy-dion-dharma",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "deb78250-e156-4f62-b548-a648cf718bf2",
+          "hospital_name": "Siloam Hospitals Surabaya",
+          "alias": "SHSB",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "12d637f3-6def-4029-b9e0-266619c34aa7",
+      "name": "dr. Alexander Sebastian, SpOG",
+      "doctor_hope_id": 1000002657,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_profile_photo/17515979512674253.jpg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "1, 5",
+      "doctor_seo_key": "dr-alexander-sebastian-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "dcf63376-ed54-4b73-ba93-e84f3f215d4b",
+          "hospital_name": "Siloam Hospitals Sentosa",
+          "alias": "SHST",
+          "days": "1, 2, 3, 4, 5, 6, 7"
+        }
+      ]
+    },
+    {
+      "doctor_id": "aa8b0ff9-3bf6-4312-92a9-588d1c5e6415",
+      "name": "dr. Alexander Tobias Kristanto",
+      "doctor_hope_id": 1000002039,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "5f8e2525-65fa-4a92-8813-fcd0323ad439",
+      "speciality_id": "8646beb4-3cc4-4c62-bdd7-51529311bf11",
+      "sub_specialization_name": "Dokter Umum",
+      "sub_specialization_name_en": "General Practitioner",
+      "specialization_name": "Kedokteran Umum - Dokter Umum",
+      "specialization_name_en": "General Practitioner - General Practitioner",
+      "image_url": null,
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "12",
+      "doctor_seo_key": "dr-alexander-tobias-kristanto",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d2f3bddc-62a2-45af-977f-77a1e15e62d9",
+          "hospital_name": "RSU Syubbanul Wathon",
+          "alias": "RSUSW",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "56d92be8-3489-4c8f-9841-296bad39b7a0",
+      "name": "dr. Alexandra M.D Ridjab, SpOG",
+      "doctor_hope_id": 3000000025201,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "4f291171-880f-4f52-8053-d97cd2872d14",
+      "speciality_id": "8cb05634-2c48-4955-867b-e30f4af903e6",
+      "sub_specialization_name": "Spesialis Obstetri dan Ginekologi",
+      "sub_specialization_name_en": "Obstetrician and Gynecologist",
+      "specialization_name": "Obstetri dan Ginekologi (Kandungan) - Spesialis Obstetri dan Ginekologi",
+      "specialization_name_en": "Obstetrics and Gynecology - Obstetrician and Gynecologist",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor/doctor_2023_02_08_14425616758421767301675842176730.jpeg",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 300000,
+      "is_have_schedule": true,
+      "consultation_type": "1, 6",
+      "doctor_seo_key": "dr-alexandra-maria-darma-seputra-ridjab-spog",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "5588f248-6f45-4968-9009-13ee8f3bd5ec",
+          "hospital_name": "Siloam Hospitals Kebon Jeruk",
+          "alias": "SHKJ",
+          "days": "1, 2, 3, 4, 5, 6"
+        }
+      ]
+    },
+    {
+      "doctor_id": "30349f4c-9cd3-4d64-9e00-72f937fd503c",
+      "name": "dr. Alex Ranuseto, SpPD",
+      "doctor_hope_id": 1000001810,
+      "gender_id": null,
+      "gender_name": null,
+      "specialization_id": "329de195-1ab6-4a43-b1e2-acfde447fec3",
+      "speciality_id": "6837e280-146b-4c44-be49-2fe92be12d47",
+      "sub_specialization_name": "Spesialis Penyakit Dalam",
+      "sub_specialization_name_en": "Internal Medicine",
+      "specialization_name": "Penyakit Dalam - Spesialis Penyakit Dalam",
+      "specialization_name_en": "Internal Medicine - Internal Medicine",
+      "image_url": "https://mysiloam-api.siloamhospitals.com/storage-down/doctor_governance_photo/17211131395577726.png",
+      "is_emergency_enable": false,
+      "consultation_price": null,
+      "teleconsult_price": 0,
+      "is_have_schedule": true,
+      "consultation_type": "5",
+      "doctor_seo_key": "dr-alex-ranuseto-sppd",
+      "next_avail": "2026-02-26",
+      "hospital_ids": [
+        {
+          "is_secured_booking": false,
+          "hospital_id": "d27bc94c-ba25-49e1-ac41-beb3996bbc61",
+          "hospital_name": "Siloam Hospitals Ambon",
+          "alias": "SHAB",
+          "days": "1, 2, 4, 5"
+        }
+      ]
+    }
+  ],
+  "count": 3233
+}

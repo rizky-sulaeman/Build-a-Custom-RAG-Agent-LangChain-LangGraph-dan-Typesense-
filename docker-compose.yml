@@ -1,0 +1,9 @@
+services:
+  typesense:
+    image: typesense/typesense:30.2.rc1
+    restart: on-failure
+    ports:
+      - "8108:8108"
+    volumes:
+      - C:\typesense-data:/data
+    command: '--data-dir /data --api-key=${TYPESENSE_API_KEY} --enable-cors'
